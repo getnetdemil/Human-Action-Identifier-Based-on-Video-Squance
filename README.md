@@ -184,5 +184,4 @@ The result of the script has to be a console output showing the predicted label:
 1. Abdulmunem, Ashwan & Lai, Yu-Kun & Sun, Xianfang. (2016). 3D GLOH features for human action recognition. DOI: 10.1109/ICPR.2016.7899734 
 1. Paul Scovanner, Saad Ali, and Mubarak Shah. 2007. A 3-dimensional sift descriptor and its application to action recognition. In Proceedings of the 15th ACM international conference on Multimedia (MM '07). Association for Computing Machinery, New York, NY, USA, 357–360. DOI: 10.1145/1291233.1291311
 
-**THE END**
-26
+
