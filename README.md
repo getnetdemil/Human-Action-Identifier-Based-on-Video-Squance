@@ -10,7 +10,11 @@ You have to write a custom classifier program that can classify human actions ba
 
 ![](Aspose.Words.699107dd-86f2-4f7a-9fce-f6fb1b792b03.001.png)![](Aspose.Words.699107dd-86f2-4f7a-9fce-f6fb1b792b03.002.png)![](Aspose.Words.699107dd-86f2-4f7a-9fce-f6fb1b792b03.003.png)
 
-![](Aspose.Words.699107dd-86f2-4f7a-9fce-f6fb1b792b03.004.png) ![](Aspose.Words.699107dd-86f2-4f7a-9fce-f6fb1b792b03.005.png) ![](Aspose.Words.699107dd-86f2-4f7a-9fce-f6fb1b792b03.006.png) 3![](Aspose.Words.699107dd-86f2-4f7a-9fce-f6fb1b792b03.007.png)![](Aspose.Words.699107dd-86f2-4f7a-9fce-f6fb1b792b03.008.png)![](Aspose.Words.699107dd-86f2-4f7a-9fce-f6fb1b792b03.009.png)![](Aspose.Words.699107dd-86f2-4f7a-9fce-f6fb1b792b03.010.png)![](Aspose.Words.699107dd-86f2-4f7a-9fce-f6fb1b792b03.011.png)![](Aspose.Words.699107dd-86f2-4f7a-9fce-f6fb1b792b03.012.png)
+![](Aspose.Words.699107dd-86f2-4f7a-9fce-f6fb1b792b03.004.png) ![](Aspose.Words.699107dd-86f2-4f7a-9fce-f6fb1b792b03.005.png) ![](Aspose.Words.699107dd-86f2-4f7a-9fce-f6fb1b792b03.006.png) 
+
+![](Aspose.Words.699107dd-86f2-4f7a-9fce-f6fb1b792b03.007.png)![](Aspose.Words.699107dd-86f2-4f7a-9fce-f6fb1b792b03.008.png)![](Aspose.Words.699107dd-86f2-4f7a-9fce-f6fb1b792b03.009.png)
+
+![](Aspose.Words.699107dd-86f2-4f7a-9fce-f6fb1b792b03.010.png)![](Aspose.Words.699107dd-86f2-4f7a-9fce-f6fb1b792b03.011.png)![](Aspose.Words.699107dd-86f2-4f7a-9fce-f6fb1b792b03.012.png)
 
 
 Tasks to do
